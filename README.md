@@ -10,6 +10,7 @@
 
 ### Tasks
 1. By the help of icomoon implement 5 svg icons and 5 font icons(you can pick any icons) in two separate html pages
-2. Write an html page (you can use random elements) and give some random styles by the help of every pseudo selectors(elements and classes), point of this task is just to get your hands dirty (you are learning by reading and writing code, <b>YOU CAN NOT LEARN BY JUST WATCHING ME CODE</b>).
+2. Create layout of this repository page with the elements you learnt, no css needed, just layout
+3. Write an html page (you can use random elements) and give some random styles by the help of every pseudo selectors(elements and classes), point of this task is just to get your hands dirty (you are learning by reading and writing code, <b>YOU CAN NOT LEARN BY JUST WATCHING ME CODE</b>).
 
  <b>STAY HIGH and STRONG</b>
