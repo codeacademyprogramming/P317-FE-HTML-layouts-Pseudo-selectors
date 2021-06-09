@@ -1,4 +1,4 @@
-# P317-FE-Icons-HTML-layouts-Pseudo-selectors
+# P317-FE-HTML-layouts-Pseudo-selectors
 
 
 ### Resources
